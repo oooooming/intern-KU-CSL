@@ -54,3 +54,31 @@
   1. 책: https://pages.cs.wisc.edu/~remzi/OSTEP/
   2. 슬라이드
   3. 프로그래밍 과제
+
+***
+
+# 2025 spring lab intern in KU-CSL
+
+### 리눅스 커널 스터디
+1. 책: Linux kernel development (저자: Robert Love)
+   1. 교내 도서관에서 빌려 볼 수 있으며 원서를 보는 습관을 들이면 좋음
+   2. http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773318&orderClick=LEA&Kc=
+   3. 매주 하나 혹은 여러개의 chapter를 읽고 지도교수와 미팅을 통해 이해하지 못한 부분이나 궁금한 사항을 정리
+      
+2. 프로그래밍 과제
+   1. 실습환경: Lab7_Linux_kernel_programming_env.pptx
+   2. https://linux-kernel-labs.github.io/refs/heads/master/index.html
+      
+3. 학부 집중교육 (리눅스 커널)
+   1. https://github.com/csl-ajou/sce394-linux-kernel-labs
+   2. 이론 슬라이드
+   3. 실습 슬라이드
+4. 참고자료
+   1. https://0xax.gitbooks.io/linux-insides/content
+   2. https://junsoolee.gitbook.io/linux-insides-ko/ (번역본)
+   3. 리눅스 커널 캠프 2017
+
+### 참고: 운영체제 리뷰
+1. 책: https://pages.cs.wisc.edu/~remzi/OSTEP/
+2. 동영상: https://www.youtube.com/playlist?list=PLzBbfbHQmjyuqBFJ8KpDdcvnLNkvPXbS-
+
